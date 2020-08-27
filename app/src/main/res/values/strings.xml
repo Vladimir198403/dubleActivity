@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dubleActivity2</string>
+
+    <string-array name="autoCompleteCatName">
+        <item>Барсик</item>
+        <item>Музрик</item>
+        <item>Кузя</item>
+        <item>Беляш</item>
+    </string-array>
+</resources>
